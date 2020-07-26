@@ -1,0 +1,25 @@
+body {
+  background-color: cyan;
+  font-size: 130%;
+}
+h1 {
+	background-color: purple;
+	display: inline-block;
+	position: relative;
+  	left: 50%;
+  	margin-left: -80px;
+}
+h2 {
+	display: inline-block;
+	float: right;
+	position: relative;
+	right: 1px;
+	margin: 0px;
+	text-align: right;
+	padding: 0px;
+	background-color: lime;
+}
+p {
+	padding: 10px;
+	float: right;
+}
