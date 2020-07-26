@@ -2,8 +2,11 @@ body {
   background-color: cyan;
   font-size: 130%;
 }
+#item1{background-color:white;}
+#item2{background-color:orange;}
+#item3{background-color:grey;}
 h1 {
-	background-color: purple;
+	background-color: cyan;
 	display: inline-block;
 	position: relative;
   	left: 50%;
